@@ -11,7 +11,7 @@ section {
     position: relative;
     background: #161623;
     min-height: 100vh;
-    overflow: hidden;
+    overflow: hidden;display: ;
 }
 
 section::before {
