@@ -15,5 +15,5 @@ section {
 }
 
 section::before {
-    content: '';
+    content: '';position: absolute;
 }
