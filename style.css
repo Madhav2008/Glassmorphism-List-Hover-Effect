@@ -19,5 +19,5 @@ section::before {
     position: absolute;
     width: 400px;
     height: 400px;
-    background: linear-gradient(#ffc107, #e91e63);
+    background: linear-gradient(#ffc107, #e91e63);border-radius: ;
 }
