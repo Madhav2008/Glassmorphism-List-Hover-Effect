@@ -14,4 +14,4 @@ section {
     overflow: hidden;
 }
 
-section
+section::before
