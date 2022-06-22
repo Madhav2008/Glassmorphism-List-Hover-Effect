@@ -18,5 +18,6 @@ section::before {
     content: '';
     position: absolute;
     width: 400px;
-    width: 400px;background: ;
+    width: 400px;
+    background: ;
 }
