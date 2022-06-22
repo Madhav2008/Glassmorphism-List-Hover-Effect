@@ -7,7 +7,7 @@
     font-family: 'Poppins', sans-serif;
 }
 
-section {
+section {position: ;
     min-height: 100vh;
     background: #161623;
     overflow: hidden;
