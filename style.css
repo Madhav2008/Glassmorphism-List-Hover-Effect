@@ -16,5 +16,6 @@ section {
 
 section::before {
     content: '';
-    position: absolute;width: ;
+    position: absolute;
+    width: 400px;
 }
