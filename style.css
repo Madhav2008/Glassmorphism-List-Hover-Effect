@@ -15,5 +15,6 @@ section {
 }
 
 section::before {
-    content: '';position: absolute;
+    content: '';
+    position: absolute;
 }
