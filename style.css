@@ -25,7 +25,8 @@ section::before {
     background: linear-gradient(#ffc107, #e91e63);
     border-radius: 50%;
     transform: translate(-250px, -120px);
-    }
+}
+
 section::before {
     content: '';
     position: absolute;
@@ -34,4 +35,4 @@ section::before {
     background: linear-gradient(#ffc107, #e91e63);
     border-radius: 50%;
     transform: translate(-250px, -120px);
-    }
+}
