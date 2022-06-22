@@ -31,7 +31,7 @@ section::after {
     content: '';
     position: absolute;
     width: 350px;
-    height: 400px;
+    height: 350px;
     background: linear-gradient(#ffc107, #e91e63);
     border-radius: 50%;
     transform: translate(-250px, -120px);
