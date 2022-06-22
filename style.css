@@ -12,7 +12,8 @@ section {
     background: #161623;
     min-height: 100vh;
     overflow: hidden;
-    display: flex;justify-content: ;
+    display: flex;
+    justify-content: ;
 }
 
 section::before {
