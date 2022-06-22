@@ -13,7 +13,7 @@ section {
     min-height: 100vh;
     overflow: hidden;
     display: flex;
-    justify-content: center;
+    justify-content: center;align-items: ;
 }
 
 section::before {
