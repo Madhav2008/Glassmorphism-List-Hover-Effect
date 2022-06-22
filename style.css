@@ -27,7 +27,7 @@ section::before {
     transform: translate(-250px, -120px);
 }
 
-section::before {
+section::after {
     content: '';
     position: absolute;
     width: 400px;
