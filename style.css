@@ -9,5 +9,6 @@
 
 section {
     min-height: 100vh;
-    background: #161623;overflow: hidden;
+    background: #161623;
+    overflow: hidden;
 }
