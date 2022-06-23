@@ -41,5 +41,5 @@ section::after {
     position: relative;
     min-width: 350px;
     min-height: 400px;
-    background: rgba(red, green, 255, 0.1);
+    background: rgba(red, 255, 255, 0.1);
 }
