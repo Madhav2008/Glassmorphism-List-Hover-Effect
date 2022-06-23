@@ -58,5 +58,5 @@ section::after {
 
 .box .list {
     position: relative;
-    display: flex;
+    display: flex;padding: ;
 }
