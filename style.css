@@ -125,6 +125,5 @@ section::after {
 
 .box .list .content p {
     line-height: 0.75em;
-    font-weight: 600;
     transition: 0.5s;
 }
