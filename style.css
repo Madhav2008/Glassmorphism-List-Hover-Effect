@@ -99,4 +99,6 @@ section::after {
     color: #fff;
 }
 
-.box .list .content .rank {position: absolute;}
+.box .list .content .rank {
+    position: absolute;
+}
