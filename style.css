@@ -38,5 +38,5 @@ section::after {
 }
 
 .box {
-    position: relative;
+    position: relative;min-width: none;
 }
