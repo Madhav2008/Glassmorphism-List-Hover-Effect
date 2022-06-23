@@ -37,4 +37,6 @@ section::after {
     transform: translate(250px, 150px);
 }
 
-.box {position: relative;}
+.box {
+    position: relative;
+}
