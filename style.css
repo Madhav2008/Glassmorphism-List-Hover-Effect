@@ -64,4 +64,6 @@ section::after {
     border-radius: 10px;
     margin: 10px 0;
     cursor: pointer;
-}.box .list:hover {}
+}
+
+.box .list:hover {}
