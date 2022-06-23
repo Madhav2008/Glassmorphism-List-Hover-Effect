@@ -105,7 +105,7 @@ section::after {
     right: -50px;
     color: #03a9f4;
     transition: 0.5s;
-    font-size: ;
+    font-size: 2.5em;
 }
 
 .box .list .content .rank small {
