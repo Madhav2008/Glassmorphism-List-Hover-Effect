@@ -77,4 +77,6 @@ section::after {
     height: 60px;
 }
 
-.box .list .imgBx img {position: absolute;}
+.box .list .imgBx img {
+    position: absolute;
+}
