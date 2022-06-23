@@ -129,4 +129,6 @@ section::after {
 }
 
 .box .list:hover .content h4,
-.box .list:hover .content p {color: #333;}
+.box .list:hover .content p {
+    color: #333;
+}
