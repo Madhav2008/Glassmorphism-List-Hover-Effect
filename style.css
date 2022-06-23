@@ -106,5 +106,5 @@ section::after {
 }
 
 .box .list .content .rank small {
-    font-weight: 500;opacity: ;
+    font-weight: 500;opacity: 0.25;
 }
