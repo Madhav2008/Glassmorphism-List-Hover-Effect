@@ -101,5 +101,6 @@ section::after {
 
 .box .list .content .rank {
     position: absolute;
-    right: 20px;color: ;
+    right: 20px;
+    color: ;
 }
