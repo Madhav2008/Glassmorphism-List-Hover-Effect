@@ -51,4 +51,6 @@ section::after {
     padding: 20px;
 }
 
-.box h3 {color: #fff;}
+.box h3 {
+    color: #fff;
+}
