@@ -57,5 +57,5 @@ section::after {
 }
 
 .box .list {
-    position: relative;
+    position: relative;display: ;
 }
