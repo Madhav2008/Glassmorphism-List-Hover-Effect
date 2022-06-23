@@ -72,5 +72,6 @@ section::after {
 }
 
 .box .list .imgBx {
-    position: relative;width: 60px;
+    position: relative;
+    width: 60px;
 }
