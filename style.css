@@ -97,4 +97,6 @@ section::after {
     flex-direction: column;
     justify-content: center;
     color: #fff;
-}.box .list .content
+}
+
+.box .list .content
