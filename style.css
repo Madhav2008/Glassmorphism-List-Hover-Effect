@@ -78,5 +78,6 @@ section::after {
 }
 
 .box .list .imgBx img {
-    position: absolute;top
+    position: absolute;
+    top
 }
