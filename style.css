@@ -71,4 +71,6 @@ section::after {
     background: #fff;
 }
 
-.box .list .imgBx {position: ;}
+.box .list .imgBx {
+    position: ;
+}
