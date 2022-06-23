@@ -94,5 +94,5 @@ section::after {
 
 .box .list .content {
     display: flex;
-    flex-direction: column;justify-content: ;
+    flex-direction: column;justify-content: center;
 }
