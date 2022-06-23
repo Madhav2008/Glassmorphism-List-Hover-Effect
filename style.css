@@ -66,4 +66,6 @@ section::after {
     cursor: pointer;
 }
 
-.box .list:hover {background: #fff;}
+.box .list:hover {
+    background: #fff;
+}
