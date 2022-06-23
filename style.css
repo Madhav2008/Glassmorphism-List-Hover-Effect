@@ -71,7 +71,7 @@ section::after {
     background: #fff;
     box-shadow: -15px 30px 50px rgba(0, 0, 0, 0.5);
     transform: scale(1.15) translateX(30px);
-    z-index: ;
+    z-index: 1000;
 }
 
 .box .list .imgBx {
