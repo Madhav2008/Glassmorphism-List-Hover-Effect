@@ -104,7 +104,8 @@ section::after {
     position: absolute;
     right: -50px;
     color: #03a9f4;
-    transition: 0.5s;font-size: ;
+    transition: 0.5s;
+    font-size: ;
 }
 
 .box .list .content .rank small {
