@@ -110,4 +110,6 @@ section::after {
     opacity: 0.25;
 }
 
-.box .list:hover .content .rank {right: 20px;}
+.box .list:hover .content .rank {
+    right: 20px;
+}
