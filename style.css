@@ -93,5 +93,5 @@ section::after {
 }
 
 .box .list .content {
-    display: flex;
+    display: flex;flex-direction: ;
 }
