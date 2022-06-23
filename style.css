@@ -68,7 +68,7 @@ section::after {
 }
 
 .box .list:hover {
-    background: #fff;
+    background: #fff;box-shadow: ;
 }
 
 .box .list .imgBx {
