@@ -128,5 +128,5 @@ section::after {
     transition: 0.5s;
 }
 
-.box .list:hover .content h4
+.box .list:hover .content h4,
 .box .list:hover .content h4
