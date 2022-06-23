@@ -92,4 +92,6 @@ section::after {
     object-fit: cover;
 }
 
-.box .list .content {display: flex;}
+.box .list .content {
+    display: flex;
+}
