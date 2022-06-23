@@ -56,4 +56,4 @@ section::after {
     color: #fff;
 }
 
-.box .list {position: absolute;}
+.box .list {position: relative;}
