@@ -117,4 +117,6 @@ section::after {
     right: 20px;
 }
 
-.box .list .content h4 {line-height: 1.2em;}
+.box .list .content h4 {
+    line-height: 1.2em;
+}
