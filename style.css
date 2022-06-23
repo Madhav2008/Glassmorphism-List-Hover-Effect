@@ -105,4 +105,6 @@ section::after {
     color: #03a9f4;
 }
 
-.box .list .content .rank small {font-weight: 500;}
+.box .list .content .rank small {
+    font-weight: 500;
+}
