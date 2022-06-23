@@ -76,7 +76,8 @@ section::after {
     width: 60px;
     height: 60px;
     border-radius: 10px;
-    overflow: hidden;margin-right: 10px;
+    overflow: hidden;
+    margin-right: 10px;
 }
 
 .box .list .imgBx img {
