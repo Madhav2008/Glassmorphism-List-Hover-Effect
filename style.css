@@ -126,4 +126,4 @@ section::after {
 .box .list .content p {
     font-size: 0.75em;
     transition: 0.5s;
-}
+}.box .list:hover .content
