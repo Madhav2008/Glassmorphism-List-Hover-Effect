@@ -74,7 +74,7 @@ section::after {
 .box .list .imgBx {
     position: relative;
     width: 60px;
-    height: 60px;
+    height: 60px;border-radius: ;
 }
 
 .box .list .imgBx img {
